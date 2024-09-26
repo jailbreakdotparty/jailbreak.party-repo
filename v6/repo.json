@@ -6,48 +6,9 @@
     "icon": "/assets/icon.png",
     "url": "https://jailbreak.party/purekfd/",
     "featured": [
-        {
-          "name": "SixteenPro",
-          "bundleid": "party.jailbreak.SixteenPro",
-          "banner": "/assets/SixteenProBanner.jpeg",
-          "fontcolor": "#FFFFFF",
-          "showname": true
-        },        
-        {
-          "name": "Apple Intellgence",
-          "bundleid": "party.jailbreak.AppleIntellgence",
-          "banner": "/assets/appleintelbanner.jpeg",
-          "fontcolor": "#FFFFFF",
-          "showname": true
-       }
     ],
     "packages": [
        {
-            "name": "Apple Intellgence",
-            "bundleid": "party.jailbreak.AppleIntellgence",
-            "author": "jailbreak.party",
-            "description": "Get Apple Intellgence on iOS 18.1b4+",
-            "long_description":"DO NOT USE ON IOS 18.0 OR EARILER. DO NOT USE ON IPADS.\n \nGet Apple Intellgence on any iPhone! iOS 18.1b4+",
-            "version": "0.1.0",
-            "icon": "/assets/appleintelicon.jpeg",
-            "banner":"/assets/appleintelbanner.jpeg",
-            "path": "/pkgs/party.jailbreak.AppleIntellgence.zip",
-            "screenshots":["assets/screenshots/appleintelscreenshot.jpeg"],
-            "varOnly":true
-       },
-       {
-            "name": "SixteenPro",
-            "bundleid": "party.jailbreak.SixteenPro",
-            "author": "jailbreak.party",
-            "description": "iPhone 16 features on any iPhone.",
-            "long_description":"DO NOT USE ON IOS 17 OR EARILER. DO NOT USE ON ANY DEVICE WITH THE DYNAMIC ISLAND.\n \nEnable iPhone 16 features on any iPhone.\n \nFeatures Include:\n- Dynamic Island\n- Always On Display\n- iPhone 16 settings\n- Updated model name",
-            "version": "0.2.0",
-            "icon": "/assets/SixteenProIcon.jpeg",
-            "banner":"/assets/SixteenProBanner.jpeg",
-            "path": "/pkgs/party.jailbreak.SixteenPro.zip",
-            "screenshots":["assets/screenshots/SixteenProAOD.jpeg", "assets/screenshots/SixteenProIsland.jpeg", "assets/screenshots/SixteenProCamControl.jpeg", "assets/screenshots/SixteenProAbout.jpeg"],
-            "varOnly":true
-        },
         {
             "name": "KYSMobileGestalt",
             "bundleid": "party.jailbreak.gestaltLoop",
